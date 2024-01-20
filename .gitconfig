@@ -1,0 +1,10 @@
+[http]
+[https]
+[user]
+	name = kmHu
+	email = 626694157@qq.com
+
+[http]
+[https]
+[http]
+	postBuffer = 524288000
