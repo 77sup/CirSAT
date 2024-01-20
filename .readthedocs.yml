@@ -5,10 +5,6 @@ build:
   tools:
     python: "3.9"
 
-submodules:
-  exclude: all
-  recursive: false
-
 sphinx:
   configuration: docs/source/conf.py
 
